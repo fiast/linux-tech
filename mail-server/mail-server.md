@@ -26,9 +26,10 @@ spamassassin, dSpam, **rspamd**
 
 ## База данных
 
-**postgresql**
+**postgresql** [команды для управления](postgres-cmd.md)
 
 ## Вебинтерфейс
 
 **roundcube**, sqierell mail
+
 
